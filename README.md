@@ -24,3 +24,9 @@ You should have some knowledge of C programming and a basic understanding of how
 ## Usage
 
 To use ft_printf, you can include the provided library in your C code and use it to format and print text to the console. You can find example code and usage in the project documentation.
+
+<br></br>
+
+## About Ecole 42
+
+Ecole 42 is a coding school that fosters peer-to-peer learning, promoting collaboration and hands-on experience. The ft_printf project is one of the many coding challenges students encounter at Ecole 42.
