@@ -7,25 +7,21 @@
 
 ft_printf is a project at Ecole 42 that requires you to implement your own version of the C standard library function `printf`. This function allows you to format and print text to the console.
 
-<br></br>
 
 ## Getting Started
 
 To get started with ft_printf, you should first understand the basics of C programming. Ecole 42 provides resources and instructions on how to approach this project. You'll need to implement your own version of the `printf` function.
 
-<br></br>
 
 ## Prerequisites
 
 You should have some knowledge of C programming and a basic understanding of how the `printf` function works in C.
 
-<br></br>
 
 ## Usage
 
 To use ft_printf, you can include the provided library in your C code and use it to format and print text to the console. You can find example code and usage in the project documentation.
 
-<br></br>
 
 ## About Ecole 42
 
